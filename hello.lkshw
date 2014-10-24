@@ -1,0 +1,14 @@
+Version of workspace file format:
+               2
+Time of storage:
+               "Sun Sep  7 18:06:26 CEST 2014"
+Name of the workspace:
+               "hello"
+File paths of contained packages:
+               ["F1TickerClient/F1TickerClient.cabal","ZMQServer/ZMQServer.cabal","RTLParser/RTLParser.cabal"]
+Maybe file path of an active package:
+               Just "F1TickerClient/F1TickerClient.cabal"
+Maybe name of an active executable:
+               Nothing
+Version Control System configurations for packages:
+               fromList []

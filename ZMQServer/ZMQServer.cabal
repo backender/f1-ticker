@@ -1,0 +1,25 @@
+name: ZMQServer
+version: 0.0.1
+cabal-version: >=1.2
+build-type: Simple
+license: AllRightsReserved
+license-file: ""
+description:
+data-dir: ""
+
+executable ZMQServer
+    build-depends:
+      base -any,
+      random,
+      zeromq4-haskell,
+      bytestring,
+      HTTP,
+      tagsoup,
+      aeson
+    main-is: Main.hs
+    buildable: True
+    hs-source-dirs:
+        src,
+        /Users/marc/sync/hello/RTLParser/src
+
+library

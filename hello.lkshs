@@ -1,0 +1,20 @@
+Version of session file format:
+               1
+Time of storage:
+               "Mon Sep  8 17:22:16 CEST 2014"
+Layout:        VerticalP (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = 2, detachedId = Nothing, detachedSize = Nothing}) (HorizontalP (TerminalP {paneGroups = fromList [("Debug",HorizontalP (TerminalP {paneGroups = fromList [], paneTabs = Nothing, currentPage = -1, detachedId = Nothing, detachedSize = Nothing}) (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = -1, detachedId = Nothing, detachedSize = Nothing}) 149)], paneTabs = Just TopP, currentPage = 2, detachedId = Nothing, detachedSize = Nothing}) (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = 1, detachedId = Nothing, detachedSize = Nothing}) 417) 1156
+Population:    [(Just (ErrorsSt ErrorsState),[SplitP RightP,SplitP TopP]),(Just (BufferSt (BufferState "/Users/marc/Sites/hello/F1TickerClient/F1TickerClient.cabal" 1035)),[SplitP LeftP]),(Just (FilesSt FilesState),[SplitP RightP,SplitP TopP]),(Just (HLintSt HLintState),[SplitP RightP,SplitP TopP]),(Just (InfoSt (InfoState (Just (Real (RealDescr {dscName' = "main", dscMbTypeStr' = Nothing, dscMbModu' = Just (PM {pack = PackageIdentifier {pkgName = PackageName "F1TickerClient", pkgVersion = Version {versionBranch = [1,0,0,2], versionTags = []}}, modu = ModuleName ["Main"]}), dscMbLocation' = Just (Location {locationFile = "/Users/marc/Sites/hello/F1TickerClient/src/hello.hs", locationSLine = 3, locationSCol = 1, locationELine = 3, locationECol = 32}), dscMbComment' = Nothing, dscTypeHint' = VariableDescr, dscExported' = True}))))),[SplitP RightP,SplitP BottomP]),(Just (LogSt LogState),[SplitP RightP,SplitP BottomP]),(Just (BufferSt (BufferState "/Users/marc/Sites/hello/ZMQServer/src/Main.hs" 709)),[SplitP LeftP]),(Just (BufferSt (BufferState "/Users/marc/Sites/hello/RTLParser/src/Main.hs" 387)),[SplitP LeftP]),(Just (ModulesSt (ModulesState 200 (PackageScope False,False) (Just (ModuleName ["Main"]),Just "main") (ExpanderState {packageExp = ([],[]), packageExpNoBlack = ([],[]), packageDExp = ([],[]), packageDExpNoBlack = ([],[]), workspaceExp = ([],[]), workspaceExpNoBlack = ([],[]), workspaceDExp = ([],[]), workspaceDExpNoBlack = ([],[]), systemExp = ([],[]), systemExpNoBlack = ([[353,0,0],[353,0],[353]],[])}))),[SplitP RightP,SplitP TopP]),(Just (SearchSt (SearchState {searchString = "break", searchScope = SystemScope, searchMode = Prefix {caseSense = False}})),[SplitP RightP,SplitP TopP]),(Just (WorkspaceSt WorkspaceState),[SplitP RightP,SplitP BottomP]),(Just (BufferSt (BufferState "/Users/marc/Sites/hello/F1TickerClient/src/hello.hs" 477)),[SplitP LeftP])]
+Window size:   (1725,989)
+Full screen:   False
+Dark:          False
+Completion size:
+               (750,400)
+Workspace:     Just "/Users/marc/Sites/hello/hello.lkshw"
+Active pane:   Just "Main.hs(1)"
+Toolbar visible:
+               True
+FindbarState:  (True,FindState {entryStr = "", entryHist = [], replaceStr = "", replaceHist = [], caseSensitive = False, entireWord = False, wrapAround = False, regex = False, lineNr = 1})
+Recently opened files:
+               ["/Users/marc/Sites/hello/F1TickerClient/F1TickerClient.cabal","/Users/marc/Sites/hello/ZMQServer/src/Testclient.hs","/Users/marc/Sites/hello/ZMQServer/ZMQServer.cabal~","/Users/marc/Sites/hello/ZMQServer/src/Main.hs","/Users/marc/Sites/hello/RTLParser/src/Main.hs","/Users/marc/Sites/hello/ZMQServer/ZMQServer.cabal","/Users/marc/.leksah-0.14/packageSources/tagsoup-0.13.2/Text/HTML/TagSoup/Type.hs","/Library/Frameworks/GHC.framework/Versions/7.8.3-x86_64/usr/lib/ghc-7.8.3/include/rts/Flags.h","/Library/Frameworks/GHC.framework/Versions/7.8.3-x86_64/usr/lib/ghc-7.8.3/include/Rts.h","/Library/Frameworks/GHC.framework/Versions/7.8.3-x86_64/usr/lib/ghc-7.8.3/include/Stg.h","/Library/Frameworks/GHC.framework/Versions/7.8.3-x86_64/usr/lib/ghc-7.8.3/include/rts/Threads.h","/Users/marc/Sites/hello/test/test.cabal"]
+Recently opened workspaces:
+               ["/Users/marc/Sites/hello/hello.lkshw","/Users/marc/Sites/f1-crawler-rtl/f1-crawler.lkshw","/Users/marc/leksah.lkshw"]
